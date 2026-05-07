@@ -85,8 +85,9 @@ Projeto de utilidade pública que cruza dados do CNES, SINAN, Anuário de Segura
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=otaviofabbro&show_icons=true&theme=default&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=2C2C2A&bg_color=FAFAF8"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviofabbro&layout=compact&theme=default&hide_border=true&title_color=3776AB&text_color=2C2C2A&bg_color=FAFAF8"/>
+<img height="160" src="https://streak-stats.demolab.com?user=otaviofabbro&theme=default&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=FAFAF8&ring=3776AB&fire=D85A30&currStreakLabel=3776AB&v=1"/>
+
+<img height="160" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=otaviofabbro&layout=compact&hide_border=true&title_color=3776AB&text_color=2C2C2A&bg_color=FAFAF8&langs_count=6&v=1"/>
 
 </div>
 
