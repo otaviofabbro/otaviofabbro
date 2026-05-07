@@ -28,10 +28,16 @@ Meu trabalho transita entre análise exploratória, construção de pipelines de
 
 ## 🧭 O que estou fazendo agora
 
-- 🔭 Desenvolvendo uma **aplicação de conciliação financeira** com Python, Dash e PostgreSQL
-- 🌱 Aprofundando conhecimentos em **engenharia de dados**: arquiteturas ELT/ETL, modelagem dimensional e otimização avançada de SQL
-- 💼 Buscando oportunidades para atuar com **análise de dados e BI** — criando visualizações estratégicas e automatizando processos analíticos
-
+- 🏛️ Concluí recentemente um projeto demandado pela **Comissão de Igualdade de Gênero da
+Procuradoria Federal dos Direitos do Cidadão (MPF)** com duas entregas principais: uma
+análise geoespacial da infraestrutura de atendimento e da subnotificação de violência sexual
+no Brasil, e um **serviço de busca interativo** que permite localizar, em todo o território
+nacional, os estabelecimentos especializados mais próximos de qualquer município — com
+filtro por UF/cidade e cálculo de distância via Fórmula de Haversine. Em breve apresentarei
+os resultados à equipe para coleta de feedbacks e ajustes finais.
+- 📊 Aperfeiçoando minhas habilidades em **Power BI** e **SQL avançado** — otimização de queries, modelagem dimensional e construção de dashboards estratégicos.
+- 🔍 Em busca de oportunidades como **Analista de Dados, BI Analyst ou Data Scientist** — aberto a conversas sobre posições onde dados possam gerar impacto real.
+- 💡 Explorando ideias para o próximo projeto de portfólio.
 ---
 
 ## 🛠️ Stack & Ferramentas
